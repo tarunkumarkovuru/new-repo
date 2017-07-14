@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1>Maven + Spring MVC Web Project Example</h1>
+<h1>Jenkins Example using Google cloud platform</h1>
 
 
  

@@ -2,7 +2,7 @@
 <body>
 
 
-<h1>Jenkins Example using Google cloud platfrom. I am  the updated version</h1>
+<h1>Jenkins Example using Google cloud platfrom. I am  the updated version 1.1</h1>
 
 
 

@@ -2,7 +2,7 @@
 <body>
 
 
-<h1>Jenkins Example using Google cloud platfrom.</h1>
+<h1>Jenkins Example using Google cloud platfrom</h1>
 
 
 

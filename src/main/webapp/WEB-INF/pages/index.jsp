@@ -3,7 +3,7 @@
 
 
 
-<h1>Jenkins Example using Google cloud platfrom. I am  the updated version 1.2 I am adding something without permission may need to be reverted</h1>
+<h1>Jenkins Example using Google cloud platfrom. I am  the updated version 1.2</h1>
 
 
 

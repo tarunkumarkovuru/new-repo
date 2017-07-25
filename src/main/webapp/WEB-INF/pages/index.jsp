@@ -1,9 +1,9 @@
-<html>
+i<html>
 <body>
 
 
 
-<h1>Jenkins Example using Google cloud platfrom.I am adding something new version 1.1</h1>
+<h1>Jenkins Example using Google cloud platfrom.I am adding something new version</h1>
 
 
 

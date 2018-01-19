@@ -7,6 +7,7 @@ node {
   
   stage 'Current directory'
   sh("pwd")
+  sh("mvn clean install")
   
   stage 'Build image'
   sh("docker build -t ${imageTag} .")

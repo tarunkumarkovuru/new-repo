@@ -4,7 +4,10 @@ node {
   def imageTag = "gcr.io/${project}/${appName}:${env.BRANCH_NAME}.${env.BUILD_NUMBER}"
 
   checkout scm
-
+  
+  stage 'Current directory'
+  sh("pwd")
+  
   stage 'Build image'
   sh("docker build -t ${imageTag} .")
   

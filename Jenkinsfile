@@ -1,7 +1,6 @@
 node {
-  def project = 'plenary-cascade-171805'
-  def appName = 'gceme'
-  def feSvcName = "${appName}-frontend"
+  def project = 'dev-mapping'
+  def appName = 'dev'
   def imageTag = "gcr.io/${project}/${appName}:${env.BRANCH_NAME}.${env.BUILD_NUMBER}"
 
   checkout scm

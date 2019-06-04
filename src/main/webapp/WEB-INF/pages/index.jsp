@@ -3,7 +3,7 @@
 
 
 
-<h1>Hello Hello Hello Cloud World:)</h1>
+<h1>Hello Cloud World:)</h1>
 
 
 
